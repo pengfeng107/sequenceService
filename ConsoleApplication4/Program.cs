@@ -13,9 +13,12 @@ namespace ConsoleApplication4
             Console.WriteLine("hello world");
             Console.WriteLine("hello world");
             Console.WriteLine("hello world");
-            Console.WriteLine("hello world");
-            Console.WriteLine("hello world");
-            Console.WriteLine("hello world");
+            Console.WriteLine("1hello world");
+            Console.WriteLine("2hello world");
+            Console.WriteLine("3hello world");
+            Console.WriteLine("4hello world");
+            Console.WriteLine("5hello world");
+            Console.WriteLine("6hello world");
             Console.ReadLine();
 
 
