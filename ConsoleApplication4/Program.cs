@@ -10,11 +10,9 @@ namespace ConsoleApplication4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("1hello world");
-            Console.WriteLine("2hello world");
-            Console.WriteLine("3hello world");
+            Console.WriteLine("1hello world");    
             Console.WriteLine("4hello world");
-            Console.WriteLine("533hello world");
+            Console.WriteLine("5hello world");
             Console.ReadLine();
 
 
